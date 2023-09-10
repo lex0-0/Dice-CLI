@@ -13,7 +13,7 @@ func main() {
 	rand.Seed(time.Now().Unix())
 	dice, sides := 2, 12
 	rolls := 2
-	fmt.Println("    __o  ")
+	fmt.Println("   __ o  ")
 	fmt.Println(" __| |_  ___ ___ ")
 	fmt.Println("/ _` | |/ __/ _ |")
 	fmt.Println("|(_| | | (_|  __/")
